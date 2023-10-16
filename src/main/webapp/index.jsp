@@ -6,7 +6,7 @@
 
 <jsp:include page="html/profile.html" />
 
-<a href="html/login.html">Login</a>
+<a href="html/login.html">UserLogin</a>
 
 <br/> <hr />
 
